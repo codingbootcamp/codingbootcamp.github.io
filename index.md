@@ -5,6 +5,9 @@ Albeit tiny, this is our attempt to give back to the eco system in some way.
 
 Please fill up the [RSVP form](https://goo.gl/forms/l6XTY2CISpEx2Vz02) and mark your presence.
 
+## When?
+`29th & 30th of July`. You guessed it right, it is a weekend.
+
 ## Where will it be held?
 The bootcamp will be hosted in [Recruiterbox](https://recruiterbox.com/), Bangalore office at HSR layout.
 ```
