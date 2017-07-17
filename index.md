@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Coding Boot Camp - Learn JavaScript Application Developement and Docker
 tagline: Learn how to build and deploy modern web applications
 description: This boot camp teaches you to develop modern API based web application and deploy them in production
