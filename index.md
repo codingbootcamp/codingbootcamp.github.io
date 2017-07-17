@@ -36,7 +36,7 @@ Although we would love to help you cross each and every hurdle during developmen
 
 **For first session working knowledge of JavaScript is a must. Please read up [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
-**For second session please install Docker for your operating system from for [here](https://www.docker.com/)**
+**For second session please install Docker for your OS from [here](https://www.docker.com/)**
 
 Needless to say, you need to carry your laptop with you.
 
