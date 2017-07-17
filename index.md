@@ -35,7 +35,7 @@ Although we would love to help you cross each and every hurdle during developmen
 
 Needless to say, you need to carry your laptop with you.
 
-### Building JavaScript Application
+## Building JavaScript Application
 In this session we will learn how a modern web application is developed and deployed. The application will have a backend which will serve data via APIs and frontend will consume the data and present it using UI components.
 
 After developing the application, we will deploy the backend API on Heroku and the frontend on Firebase which allows a developer to deploy application without any prior knowledge of DevOps.
@@ -43,7 +43,7 @@ After developing the application, we will deploy the backend API on Heroku and t
 The idea is for us to demonstrate how two independent systems can talk to each other over REST webservices.
 
 
-### Introduction To Docker
+## Introduction To Docker
 [Docker](https://www.docker.com/) allows us to eliminate "works on my machine" problem by creating isolated containers which can be created and discarded as and when needed. This session will walk you through the process of using Docker for the application which was developed in the previous session. This session will also introduce you to docker compose which is another tool to run multiple micro services.
 
 ## What's in it for you?
@@ -52,3 +52,6 @@ Well, you get to build and deploy a production ready application yourselves with
 You get to network with like minded hackers.
 
 Best two implementations win some recruiterbox swag :)
+
+## Questions?
+Drop us an email at `rohan.bagchi01@gmail.com` and we will revert back at the earliest.
