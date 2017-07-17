@@ -13,6 +13,9 @@ Sector 4, HSR Layout,
 Bengaluru, Karnataka 560102
 ```
 
+## What will it cost?
+Absolutely nothing. Bring your friends. Let's hack together.
+
 ## Details
 
 The bootcamp will be of two parts of about 3-4 hours each. 
@@ -21,10 +24,13 @@ In first part, we will learn and build a working application with separate front
 
 The second part will be about Docker and how can we use it to develop the application and deploy it in production.
 
+Although we would love to help you cross each and every hurdle during development, we would love it if you put in some effort yourself first and then sought help.
+
 **For first session working knowledge of JavaScript is a must. Please read up [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
 **For second session please install Docker for your operating system from for [here](https://www.docker.com/)**
 
+Needless to say, you need to carry your laptop with you.
 
 ### Building JavaScript Application
 In this session we will learn how a modern web application is developed and deployed. The application will have a backend which will serve data via APIs and frontend will consume the data and present it using UI components.
@@ -36,3 +42,10 @@ The idea is for us to demonstrate how two independent systems can talk to each o
 
 ### Introduction To Docker
 [Docker](https://www.docker.com/) allows us to eliminate "works on my machine" problem by creating isolated containers which can be created and discarded as and when needed. This session will walk you through the process of using Docker for the application which was developed in the previous session. This session will also introduce you to docker compose which is another tool to run multiple micro services.
+
+## What's in it for you?
+Well, you get to build and deploy a production ready application yourselves with a little bit of help from us and have it as a part of your portfolio. 
+
+You get to network with like minded hackers.
+
+Best two implementations win some recruiterbox swag :)
