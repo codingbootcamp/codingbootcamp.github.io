@@ -1,14 +1,25 @@
 ## Welcome to Coding Bootcamp
 The idea is to build stuff. So we took up a few concepts of a modern application and thought to ourselves, let's gather a bunch of hackers and build one.
 
-Albeit tiny, this is our attempt to give back to the eco system in some way. 
+Albeit tiny, this is our attempt to give back to the eco system in some way.
 
-Please fill up the [questionaire](https://goo.gl/forms/l6XTY2CISpEx2Vz02) so that we get a better hang of things you might expect of us.
+Please fill up the [RSVP form](https://goo.gl/forms/l6XTY2CISpEx2Vz02) and mark your presence.
 
+## Where will it be held?
+The bootcamp will be hosted in [Recruiterbox](https://recruiterbox.com/), Bangalore office at HSR layout.
+```
+246, 17th Cross Road,
+Sector 4, HSR Layout,
+Bengaluru, Karnataka 560102
+```
 
+## Details
 
+The bootcamp will be of two parts of about 3-4 hours each. 
 
-The bootcamp will be of two parts of about 3-4 hours each. In first part of the camp we will learn and build a working application with separate frontend and backend. The second part will be about Docker and how can we use it to develop the application and deploy it in production.
+In first part, we will learn and build a working application with separate frontend and backend. 
+
+The second part will be about Docker and how can we use it to develop the application and deploy it in production.
 
 **For first session working knowledge of JavaScript is a must. Please read up [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
@@ -16,7 +27,11 @@ The bootcamp will be of two parts of about 3-4 hours each. In first part of the 
 
 
 ### Building JavaScript Application
-In this session we will learn how a modern web application is developed and deployed. The application will have a backend which will serve data via APIs and frontend will consume the data and present it using UI components. After developing the application we will deploy the application on [Heroku](https://www.heroku.com/) and [Firebase](https://firebase.google.com/) which allows a developer to deploy application without any prior knowledge of DevOps.
+In this session we will learn how a modern web application is developed and deployed. The application will have a backend which will serve data via APIs and frontend will consume the data and present it using UI components.
+
+After developing the application, we will deploy the backend API on Heroku and the frontend on Firebase which allows a developer to deploy application without any prior knowledge of DevOps.
+
+The idea is for us to demonstrate how two independent systems can talk to each other over REST webservices.
 
 
 ### Introduction To Docker
