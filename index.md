@@ -12,7 +12,7 @@ The bootcamp will be of two parts of about 3-4 hours each. In first part of the 
 
 **For first session working knowledge of JavaScript is a must. Please read up [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 
-**For second session please install Docker for you operating system from for [here](https://www.docker.com/)**
+**For second session please install Docker for your operating system from for [here](https://www.docker.com/)**
 
 
 ### Building JavaScript Application
