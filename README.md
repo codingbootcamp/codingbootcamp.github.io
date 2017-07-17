@@ -1,2 +1,2 @@
-# codingbootcamp.github.io
-Please login to [https://gitter.im/codingbootcamp](https://gitter.im/codingbootcamp) for discussions around coding bootcamp
+# Coding Bootcamp
+Visit: [https://codingbootcamp.github.io/](https://codingbootcamp.github.io/) for more information
