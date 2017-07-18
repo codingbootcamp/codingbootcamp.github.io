@@ -59,4 +59,10 @@ You get to network with like minded hackers.
 Best two implementations win some recruiterbox swag :)
 
 ## Questions?
-Drop us an email at `rohan.bagchi01@gmail.com` and we will revert back at the earliest.
+Drop us an email at  and we will revert back at the earliest.
+
+**Rohan Bagchi**
+email: `rohan.bagchi01@gmail.com` phone: +918584069068
+
+**Vedarth Kulkarni**
+email: `vedarthk@vedarthz.in` phone: +918105424080
