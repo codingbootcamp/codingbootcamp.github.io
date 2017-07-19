@@ -8,7 +8,7 @@ The idea is to build stuff. So we took up a few concepts of a modern application
 
 Albeit tiny, this is our attempt to give back to the eco system in some way.
 
-Please fill up the [RSVP form](https://goo.gl/forms/l6XTY2CISpEx2Vz02) and mark your presence.
+Please fill up the [Registration / RSVP form](https://goo.gl/forms/l6XTY2CISpEx2Vz02) and mark your presence.
 
 ## When?
 `29th & 30th of July`. You guessed it right, it is a weekend.
