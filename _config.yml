@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 
 title: Coding Bootcamp
 description: Learn to build and deploy modern web applications
+
+google_analytics: UA-102800377-1
